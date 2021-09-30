@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+
+}
+
+<br />
+<div class="row">
+    <div class="col-md-6">
+        @{Html.RenderAction("UpcomingEvent", "Home");
+        }
+    </div>
+
+    <div class="col-md-6">
+        @{Html.RenderAction("PastEvent", "Home");
+        }
+    </div>
+</div>
+
+

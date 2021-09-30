@@ -1,0 +1,106 @@
+C:\Users\vysyakha\OneDrive - Nagarro\Documents\GitHub\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\Nagarro.BookEvents.Business.dll
+C:\Users\vysyakha\OneDrive - Nagarro\Documents\GitHub\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\Nagarro.BookEvents.Business.pdb
+C:\Users\vysyakha\OneDrive - Nagarro\Documents\GitHub\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\FluentValidation.dll
+C:\Users\vysyakha\OneDrive - Nagarro\Documents\GitHub\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\FluentValidation.Mvc.dll
+C:\Users\vysyakha\OneDrive - Nagarro\Documents\GitHub\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\FluentValidation.ValidatorAttribute.dll
+C:\Users\vysyakha\OneDrive - Nagarro\Documents\GitHub\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\vysyakha\OneDrive - Nagarro\Documents\GitHub\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\Nagarro.BookEvents.Shared.dll
+C:\Users\vysyakha\OneDrive - Nagarro\Documents\GitHub\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\vysyakha\OneDrive - Nagarro\Documents\GitHub\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\System.Web.Helpers.dll
+C:\Users\vysyakha\OneDrive - Nagarro\Documents\GitHub\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\System.Web.Mvc.dll
+C:\Users\vysyakha\OneDrive - Nagarro\Documents\GitHub\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\System.Web.Razor.dll
+C:\Users\vysyakha\OneDrive - Nagarro\Documents\GitHub\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\vysyakha\OneDrive - Nagarro\Documents\GitHub\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\System.Web.WebPages.dll
+C:\Users\vysyakha\OneDrive - Nagarro\Documents\GitHub\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\vysyakha\OneDrive - Nagarro\Documents\GitHub\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\Nagarro.BookEvents.Shared.pdb
+C:\Users\vysyakha\OneDrive - Nagarro\Documents\GitHub\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\FluentValidation.xml
+C:\Users\vysyakha\OneDrive - Nagarro\Documents\GitHub\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\FluentValidation.Mvc.xml
+C:\Users\vysyakha\OneDrive - Nagarro\Documents\GitHub\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\System.Web.Helpers.xml
+C:\Users\vysyakha\OneDrive - Nagarro\Documents\GitHub\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\System.Web.Mvc.xml
+C:\Users\vysyakha\OneDrive - Nagarro\Documents\GitHub\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\System.Web.Razor.xml
+C:\Users\vysyakha\OneDrive - Nagarro\Documents\GitHub\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\System.Web.WebPages.xml
+C:\Users\vysyakha\OneDrive - Nagarro\Documents\GitHub\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\vysyakha\OneDrive - Nagarro\Documents\GitHub\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\vysyakha\OneDrive - Nagarro\Documents\GitHub\BookReadingEvent\Nagarro.BookEvents.Business\obj\Debug\Nagarro.BookEvents.Business.csproj.AssemblyReference.cache
+C:\Users\vysyakha\OneDrive - Nagarro\Documents\GitHub\BookReadingEvent\Nagarro.BookEvents.Business\obj\Debug\Nagarro.BookEvents.Business.csproj.CoreCompileInputs.cache
+C:\Users\vysyakha\OneDrive - Nagarro\Documents\GitHub\BookReadingEvent\Nagarro.BookEvents.Business\obj\Debug\Nagarro.BookEvents.Business.csproj.CopyComplete
+C:\Users\vysyakha\OneDrive - Nagarro\Documents\GitHub\BookReadingEvent\Nagarro.BookEvents.Business\obj\Debug\Nagarro.BookEvents.Business.dll
+C:\Users\vysyakha\OneDrive - Nagarro\Documents\GitHub\BookReadingEvent\Nagarro.BookEvents.Business\obj\Debug\Nagarro.BookEvents.Business.pdb
+C:\Users\vysyakha\OneDrive - Nagarro\Documents\GitHub\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\Nagarro.BookEvents.Shared.dll.config
+C:\Users\vysyakha\Desktop\New folder\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\Nagarro.BookEvents.Business.dll.config
+C:\Users\vysyakha\Desktop\New folder\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\Nagarro.BookEvents.Business.dll
+C:\Users\vysyakha\Desktop\New folder\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\Nagarro.BookEvents.Business.pdb
+C:\Users\vysyakha\Desktop\New folder\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\FluentValidation.dll
+C:\Users\vysyakha\Desktop\New folder\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\FluentValidation.Mvc.dll
+C:\Users\vysyakha\Desktop\New folder\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\FluentValidation.ValidatorAttribute.dll
+C:\Users\vysyakha\Desktop\New folder\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\vysyakha\Desktop\New folder\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\Nagarro.BookEvents.Shared.dll
+C:\Users\vysyakha\Desktop\New folder\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\vysyakha\Desktop\New folder\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\System.Web.Helpers.dll
+C:\Users\vysyakha\Desktop\New folder\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\System.Web.Mvc.dll
+C:\Users\vysyakha\Desktop\New folder\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\System.Web.Razor.dll
+C:\Users\vysyakha\Desktop\New folder\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\vysyakha\Desktop\New folder\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\System.Web.WebPages.dll
+C:\Users\vysyakha\Desktop\New folder\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\vysyakha\Desktop\New folder\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\EntityFramework.dll
+C:\Users\vysyakha\Desktop\New folder\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\Nagarro.BookEvents.Shared.pdb
+C:\Users\vysyakha\Desktop\New folder\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\Nagarro.BookEvents.Shared.dll.config
+C:\Users\vysyakha\Desktop\New folder\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\FluentValidation.xml
+C:\Users\vysyakha\Desktop\New folder\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\FluentValidation.Mvc.xml
+C:\Users\vysyakha\Desktop\New folder\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\System.Web.Helpers.xml
+C:\Users\vysyakha\Desktop\New folder\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\System.Web.Mvc.xml
+C:\Users\vysyakha\Desktop\New folder\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\System.Web.Razor.xml
+C:\Users\vysyakha\Desktop\New folder\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\System.Web.WebPages.xml
+C:\Users\vysyakha\Desktop\New folder\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\vysyakha\Desktop\New folder\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\vysyakha\Desktop\New folder\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\EntityFramework.xml
+C:\Users\vysyakha\Desktop\New folder\BookReadingEvent\Nagarro.BookEvents.Business\obj\Debug\Nagarro.BookEvents.Business.csproj.AssemblyReference.cache
+C:\Users\vysyakha\Desktop\New folder\BookReadingEvent\Nagarro.BookEvents.Business\obj\Debug\Nagarro.BookEvents.Business.csproj.CoreCompileInputs.cache
+C:\Users\vysyakha\Desktop\New folder\BookReadingEvent\Nagarro.BookEvents.Business\obj\Debug\Nagarro.BookEvents.Business.csproj.CopyComplete
+C:\Users\vysyakha\Desktop\New folder\BookReadingEvent\Nagarro.BookEvents.Business\obj\Debug\Nagarro.BookEvents.Business.dll
+C:\Users\vysyakha\Desktop\New folder\BookReadingEvent\Nagarro.BookEvents.Business\obj\Debug\Nagarro.BookEvents.Business.pdb
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\Nagarro.BookEvents.Business.dll.config
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\Nagarro.BookEvents.Business.dll
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\Nagarro.BookEvents.Business.pdb
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\FluentValidation.dll
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\FluentValidation.Mvc.dll
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\FluentValidation.ValidatorAttribute.dll
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\Nagarro.BookEvents.BusinessFacades.dll
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\Nagarro.BookEvents.Data.dll
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\Nagarro.BookEvents.EntityDataModel.dll
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\Nagarro.BookEvents.Shared.dll
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\Nagarro.BookEvents.UI.dll
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\System.ComponentModel.Annotations.dll
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\System.Web.Helpers.dll
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\System.Web.Mvc.dll
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\System.Web.Razor.dll
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\System.Web.WebPages.dll
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\System.Web.WebPages.Razor.dll
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\EntityFramework.dll
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\System.Web.Optimization.dll
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\Nagarro.BookEvents.BusinessFacades.pdb
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\Nagarro.BookEvents.Data.pdb
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\Nagarro.BookEvents.Data.dll.config
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\Nagarro.BookEvents.EntityDataModel.pdb
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\Nagarro.BookEvents.EntityDataModel.dll.config
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\Nagarro.BookEvents.Shared.pdb
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\Nagarro.BookEvents.Shared.dll.config
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\Nagarro.BookEvents.UI.pdb
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\Nagarro.BookEvents.UI.dll.config
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\FluentValidation.xml
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\FluentValidation.Mvc.xml
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\System.Web.Helpers.xml
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\System.Web.Mvc.xml
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\System.Web.Razor.xml
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\System.Web.WebPages.xml
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\System.Web.WebPages.Razor.xml
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\EntityFramework.xml
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Business\bin\Debug\System.Web.Optimization.xml
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Business\obj\Debug\Nagarro.BookEvents.Business.csproj.AssemblyReference.cache
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Business\obj\Debug\Nagarro.BookEvents.Business.csproj.CoreCompileInputs.cache
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Business\obj\Debug\Nagarro.BookEvents.Business.csproj.CopyComplete
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Business\obj\Debug\Nagarro.BookEvents.Business.dll
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Business\obj\Debug\Nagarro.BookEvents.Business.pdb

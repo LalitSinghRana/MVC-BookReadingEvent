@@ -1,0 +1,48 @@
+C:\Users\vysyakha\OneDrive - Nagarro\Documents\GitHub\BookReadingEvent\Nagarro.BookEvents.Shared\bin\Debug\Nagarro.BookEvents.Shared.dll
+C:\Users\vysyakha\OneDrive - Nagarro\Documents\GitHub\BookReadingEvent\Nagarro.BookEvents.Shared\bin\Debug\Nagarro.BookEvents.Shared.pdb
+C:\Users\vysyakha\OneDrive - Nagarro\Documents\GitHub\BookReadingEvent\Nagarro.BookEvents.Shared\obj\Debug\Nagarro.BookEvents.Shared.csproj.CoreCompileInputs.cache
+C:\Users\vysyakha\OneDrive - Nagarro\Documents\GitHub\BookReadingEvent\Nagarro.BookEvents.Shared\obj\Debug\Nagarro.BookEvents.Shared.dll
+C:\Users\vysyakha\OneDrive - Nagarro\Documents\GitHub\BookReadingEvent\Nagarro.BookEvents.Shared\obj\Debug\Nagarro.BookEvents.Shared.pdb
+C:\Users\vysyakha\OneDrive - Nagarro\Documents\GitHub\BookReadingEvent\Nagarro.BookEvents.Shared\bin\Debug\Nagarro.BookEvents.Shared.dll.config
+C:\Users\vysyakha\OneDrive - Nagarro\Documents\GitHub\BookReadingEvent\Nagarro.BookEvents.Shared\bin\Debug\EntityFramework.dll
+C:\Users\vysyakha\OneDrive - Nagarro\Documents\GitHub\BookReadingEvent\Nagarro.BookEvents.Shared\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vysyakha\OneDrive - Nagarro\Documents\GitHub\BookReadingEvent\Nagarro.BookEvents.Shared\bin\Debug\EntityFramework.xml
+C:\Users\vysyakha\OneDrive - Nagarro\Documents\GitHub\BookReadingEvent\Nagarro.BookEvents.Shared\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vysyakha\OneDrive - Nagarro\Documents\GitHub\BookReadingEvent\Nagarro.BookEvents.Shared\obj\Debug\Nagarro.BookEvents.Shared.csproj.CopyComplete
+C:\Users\vysyakha\OneDrive - Nagarro\Documents\GitHub\BookReadingEvent\Nagarro.BookEvents.Shared\obj\Debug\Nagarro.BookEvents.Shared.csproj.AssemblyReference.cache
+C:\Users\vysyakha\Desktop\New folder\BookReadingEvent\Nagarro.BookEvents.Shared\bin\Debug\Nagarro.BookEvents.Shared.dll.config
+C:\Users\vysyakha\Desktop\New folder\BookReadingEvent\Nagarro.BookEvents.Shared\bin\Debug\Nagarro.BookEvents.Shared.dll
+C:\Users\vysyakha\Desktop\New folder\BookReadingEvent\Nagarro.BookEvents.Shared\bin\Debug\Nagarro.BookEvents.Shared.pdb
+C:\Users\vysyakha\Desktop\New folder\BookReadingEvent\Nagarro.BookEvents.Shared\bin\Debug\EntityFramework.dll
+C:\Users\vysyakha\Desktop\New folder\BookReadingEvent\Nagarro.BookEvents.Shared\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vysyakha\Desktop\New folder\BookReadingEvent\Nagarro.BookEvents.Shared\bin\Debug\EntityFramework.xml
+C:\Users\vysyakha\Desktop\New folder\BookReadingEvent\Nagarro.BookEvents.Shared\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vysyakha\Desktop\New folder\BookReadingEvent\Nagarro.BookEvents.Shared\obj\Debug\Nagarro.BookEvents.Shared.csproj.AssemblyReference.cache
+C:\Users\vysyakha\Desktop\New folder\BookReadingEvent\Nagarro.BookEvents.Shared\obj\Debug\Nagarro.BookEvents.Shared.csproj.CoreCompileInputs.cache
+C:\Users\vysyakha\Desktop\New folder\BookReadingEvent\Nagarro.BookEvents.Shared\obj\Debug\Nagarro.BookEvents.Shared.csproj.CopyComplete
+C:\Users\vysyakha\Desktop\New folder\BookReadingEvent\Nagarro.BookEvents.Shared\obj\Debug\Nagarro.BookEvents.Shared.dll
+C:\Users\vysyakha\Desktop\New folder\BookReadingEvent\Nagarro.BookEvents.Shared\obj\Debug\Nagarro.BookEvents.Shared.pdb
+C:\Users\lalitrana\Downloads\Week5\Week5\BookReadingEvent\Nagarro.BookEvents.Shared\bin\Debug\Nagarro.BookEvents.Shared.dll.config
+C:\Users\lalitrana\Downloads\Week5\Week5\BookReadingEvent\Nagarro.BookEvents.Shared\bin\Debug\Nagarro.BookEvents.Shared.dll
+C:\Users\lalitrana\Downloads\Week5\Week5\BookReadingEvent\Nagarro.BookEvents.Shared\bin\Debug\Nagarro.BookEvents.Shared.pdb
+C:\Users\lalitrana\Downloads\Week5\Week5\BookReadingEvent\Nagarro.BookEvents.Shared\bin\Debug\EntityFramework.dll
+C:\Users\lalitrana\Downloads\Week5\Week5\BookReadingEvent\Nagarro.BookEvents.Shared\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lalitrana\Downloads\Week5\Week5\BookReadingEvent\Nagarro.BookEvents.Shared\bin\Debug\EntityFramework.xml
+C:\Users\lalitrana\Downloads\Week5\Week5\BookReadingEvent\Nagarro.BookEvents.Shared\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lalitrana\Downloads\Week5\Week5\BookReadingEvent\Nagarro.BookEvents.Shared\obj\Debug\Nagarro.BookEvents.Shared.csproj.AssemblyReference.cache
+C:\Users\lalitrana\Downloads\Week5\Week5\BookReadingEvent\Nagarro.BookEvents.Shared\obj\Debug\Nagarro.BookEvents.Shared.csproj.CoreCompileInputs.cache
+C:\Users\lalitrana\Downloads\Week5\Week5\BookReadingEvent\Nagarro.BookEvents.Shared\obj\Debug\Nagarro.BookEvents.Shared.csproj.CopyComplete
+C:\Users\lalitrana\Downloads\Week5\Week5\BookReadingEvent\Nagarro.BookEvents.Shared\obj\Debug\Nagarro.BookEvents.Shared.dll
+C:\Users\lalitrana\Downloads\Week5\Week5\BookReadingEvent\Nagarro.BookEvents.Shared\obj\Debug\Nagarro.BookEvents.Shared.pdb
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Shared\bin\Debug\Nagarro.BookEvents.Shared.dll.config
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Shared\bin\Debug\Nagarro.BookEvents.Shared.dll
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Shared\bin\Debug\Nagarro.BookEvents.Shared.pdb
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Shared\bin\Debug\EntityFramework.dll
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Shared\bin\Debug\EntityFramework.SqlServer.dll
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Shared\bin\Debug\EntityFramework.xml
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Shared\bin\Debug\EntityFramework.SqlServer.xml
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Shared\obj\Debug\Nagarro.BookEvents.Shared.csproj.AssemblyReference.cache
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Shared\obj\Debug\Nagarro.BookEvents.Shared.csproj.CoreCompileInputs.cache
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Shared\obj\Debug\Nagarro.BookEvents.Shared.csproj.CopyComplete
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Shared\obj\Debug\Nagarro.BookEvents.Shared.dll
+D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Shared\obj\Debug\Nagarro.BookEvents.Shared.pdb
