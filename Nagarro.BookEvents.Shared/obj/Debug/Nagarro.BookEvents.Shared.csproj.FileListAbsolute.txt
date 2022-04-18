@@ -46,3 +46,15 @@ D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Shared\obj\Debug\Nag
 D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Shared\obj\Debug\Nagarro.BookEvents.Shared.csproj.CopyComplete
 D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Shared\obj\Debug\Nagarro.BookEvents.Shared.dll
 D:\github\Week5-3\Week5\BookReadingEvent\Nagarro.BookEvents.Shared\obj\Debug\Nagarro.BookEvents.Shared.pdb
+D:\github\Assignments-Nagarro\Assignment-5-MVC\Nagarro.BookEvents.Shared\bin\Debug\Nagarro.BookEvents.Shared.dll.config
+D:\github\Assignments-Nagarro\Assignment-5-MVC\Nagarro.BookEvents.Shared\bin\Debug\Nagarro.BookEvents.Shared.dll
+D:\github\Assignments-Nagarro\Assignment-5-MVC\Nagarro.BookEvents.Shared\bin\Debug\Nagarro.BookEvents.Shared.pdb
+D:\github\Assignments-Nagarro\Assignment-5-MVC\Nagarro.BookEvents.Shared\bin\Debug\EntityFramework.dll
+D:\github\Assignments-Nagarro\Assignment-5-MVC\Nagarro.BookEvents.Shared\bin\Debug\EntityFramework.SqlServer.dll
+D:\github\Assignments-Nagarro\Assignment-5-MVC\Nagarro.BookEvents.Shared\bin\Debug\EntityFramework.xml
+D:\github\Assignments-Nagarro\Assignment-5-MVC\Nagarro.BookEvents.Shared\bin\Debug\EntityFramework.SqlServer.xml
+D:\github\Assignments-Nagarro\Assignment-5-MVC\Nagarro.BookEvents.Shared\obj\Debug\Nagarro.BookEvents.Shared.csproj.AssemblyReference.cache
+D:\github\Assignments-Nagarro\Assignment-5-MVC\Nagarro.BookEvents.Shared\obj\Debug\Nagarro.BookEvents.Shared.csproj.CoreCompileInputs.cache
+D:\github\Assignments-Nagarro\Assignment-5-MVC\Nagarro.BookEvents.Shared\obj\Debug\Nagarro.BookEvents.Shared.csproj.CopyComplete
+D:\github\Assignments-Nagarro\Assignment-5-MVC\Nagarro.BookEvents.Shared\obj\Debug\Nagarro.BookEvents.Shared.dll
+D:\github\Assignments-Nagarro\Assignment-5-MVC\Nagarro.BookEvents.Shared\obj\Debug\Nagarro.BookEvents.Shared.pdb
